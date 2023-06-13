@@ -1,5 +1,5 @@
 # Volopay-assignment
-Use git ``clone https://github.com/Ashutosh1499/volopay-assignment.git`` to download the code.
+Use ``git clone https://github.com/Ashutosh1499/volopay-assignment.git`` to download the code.
 Follow the steps - 
 1.  `npm install` This will install the required packages.
 2.  `node index.js` This will start the server.

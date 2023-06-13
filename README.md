@@ -1,5 +1,7 @@
 volopay-assignment
 Follow the steps - 
 1. ## `npm install` This will install the required packages.
-Go to the 
+2. ## `node index.js` This will start the server.
+3. Now you can test the four apis by following the steps below- 
+  a. API 1: 
 

@@ -1,3 +1,2 @@
 # volopay-assignment
-## npm install 
-will install the required packages.
+## npm install ## will install the required packages.
